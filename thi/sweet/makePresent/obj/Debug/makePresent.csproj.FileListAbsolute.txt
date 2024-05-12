@@ -1,0 +1,11 @@
+C:\Users\Cake\Desktop\sweet\makePresent\bin\Debug\makePresent.exe.config
+C:\Users\Cake\Desktop\sweet\makePresent\bin\Debug\makePresent.exe
+C:\Users\Cake\Desktop\sweet\makePresent\bin\Debug\makePresent.pdb
+C:\Users\Cake\Desktop\sweet\makePresent\bin\Debug\sweets.dll
+C:\Users\Cake\Desktop\sweet\makePresent\bin\Debug\sweets.pdb
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.csproj.AssemblyReference.cache
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.csproj.CoreCompileInputs.cache
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.csproj.CopyComplete
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.exe
+C:\Users\Cake\Desktop\sweet\makePresent\obj\Debug\makePresent.pdb

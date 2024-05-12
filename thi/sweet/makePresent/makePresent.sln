@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "makePresent", "makePresent.csproj", "{8FB45213-5570-47D0-8A3B-4571A40C5ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweets", "..\..\sweets\sweets.csproj", "{E796DA7C-BC2B-4685-A01E-D349E7080B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentWindow", "..\PresentWindow\PresentWindow.csproj", "{29E29DE6-48E6-4CC1-AA61-DF6C36BCB51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB45213-5570-47D0-8A3B-4571A40C5ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB45213-5570-47D0-8A3B-4571A40C5ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB45213-5570-47D0-8A3B-4571A40C5ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB45213-5570-47D0-8A3B-4571A40C5ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E796DA7C-BC2B-4685-A01E-D349E7080B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E796DA7C-BC2B-4685-A01E-D349E7080B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E796DA7C-BC2B-4685-A01E-D349E7080B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E796DA7C-BC2B-4685-A01E-D349E7080B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E29DE6-48E6-4CC1-AA61-DF6C36BCB51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E29DE6-48E6-4CC1-AA61-DF6C36BCB51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E29DE6-48E6-4CC1-AA61-DF6C36BCB51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E29DE6-48E6-4CC1-AA61-DF6C36BCB51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5880673-355A-4977-B96A-DB7352B135AA}
+	EndGlobalSection
+EndGlobal

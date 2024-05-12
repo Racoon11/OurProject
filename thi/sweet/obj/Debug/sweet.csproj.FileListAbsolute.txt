@@ -1,0 +1,6 @@
+C:\Users\Cake\Desktop\sweet\bin\Debug\sweet.dll
+C:\Users\Cake\Desktop\sweet\bin\Debug\sweet.pdb
+C:\Users\Cake\Desktop\sweet\obj\Debug\sweet.csproj.AssemblyReference.cache
+C:\Users\Cake\Desktop\sweet\obj\Debug\sweet.csproj.CoreCompileInputs.cache
+C:\Users\Cake\Desktop\sweet\obj\Debug\sweet.dll
+C:\Users\Cake\Desktop\sweet\obj\Debug\sweet.pdb
