@@ -46,6 +46,7 @@ namespace PresentWindow
         private void editButton_Click(object sender, EventArgs e)
         {
             int ind = listBox.SelectedIndex;
+            if (ind == -1) return;
             WrappedSweet sw = present.GetSweet(ind);
             if (Form2.am >= 1)
             {
@@ -59,6 +60,7 @@ namespace PresentWindow
         private void deleteButton_Click(object sender, EventArgs e)
         {
             int ind = listBox.SelectedIndex;
+            if (ind == -1) return;
             present.DeleteSweet(ind);
             showPresent(listBox, present, totalWeight, caloriesLabel);
         }

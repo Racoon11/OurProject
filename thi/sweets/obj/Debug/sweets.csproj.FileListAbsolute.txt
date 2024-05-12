@@ -4,3 +4,9 @@ C:\Users\Cake\Desktop\sweets\obj\Debug\sweets.csproj.AssemblyReference.cache
 C:\Users\Cake\Desktop\sweets\obj\Debug\sweets.csproj.CoreCompileInputs.cache
 C:\Users\Cake\Desktop\sweets\obj\Debug\sweets.dll
 C:\Users\Cake\Desktop\sweets\obj\Debug\sweets.pdb
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\bin\Debug\sweets.dll
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\bin\Debug\sweets.pdb
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\obj\Debug\sweets.csproj.AssemblyReference.cache
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\obj\Debug\sweets.csproj.CoreCompileInputs.cache
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\obj\Debug\sweets.dll
+C:\Users\Cake\Desktop\дз\ТХИ\papka2\OurProject\thi\sweets\obj\Debug\sweets.pdb
